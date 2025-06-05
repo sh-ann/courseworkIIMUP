@@ -1,0 +1,8 @@
+torch
+numpy
+mido
+music21
+scikit-learn
+matplotlib
+tk
+tqdm
